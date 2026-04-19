@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://www.image2url.com/r2/default/images/1776586616278-61a6f458-878e-45b6-a410-cd4f415eaba9.png🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 Hi, I'm Max_C 👋  
